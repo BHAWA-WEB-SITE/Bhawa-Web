@@ -1,0 +1,47 @@
+
+.text-about-agenda{
+    margin-top:100px ;
+    margin-bottom:100px ;
+}
+
+.text-about-batch{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hr-line{
+    width: 300px;
+    border-width: 6px;
+}
+
+.sponsers-section,
+.Special-section{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.container-specail-thank{
+    margin-left: 70px;
+    margin-right: auto;
+}
+
+
+
+/*  */
+
+
+.Image-container{
+    background-color: black;
+}
+
+.info-links-media{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: fit-content;
+    margin-top: 100px;
+    
+}
