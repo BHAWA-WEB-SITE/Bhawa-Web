@@ -7,8 +7,7 @@ import Img from '../../assets/photo_2024-03-10_07-46-06.jpg'
 function SpecailCard() {
   return (
     <>
-
-      <div className='conatiner-card'>
+      <div className='col-sm-12 ms-5 mt-3  col-lg-3 m-lg-5   col-md-2 m-md-4  conatiner-card'>
         <Card style={{ width: '18rem',border:'none' }}>
           <img src={Img} alt="..." className='Image-person' />
           <Card.Body>
