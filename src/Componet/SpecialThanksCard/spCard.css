@@ -1,5 +1,8 @@
 .Image-person{
-    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 8%;
 }
     
 .conatiner-card{

@@ -115,7 +115,7 @@ function Home() {
       {/*info of images links*/}
       <div className='container mt-5 '>
       <h1 className='text-center'>Our Resources Section</h1>
-      <div className="box-container row  " style={{ marginLeft:'-39px'}}>
+      <div className="box-container row  " style={{ marginLeft:'-20px'}}>
          <Box />
          <Box />
          <Box />

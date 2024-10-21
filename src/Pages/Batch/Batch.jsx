@@ -1,10 +1,17 @@
 import React from 'react'
 import './batch.css'
+import BatchComponet from '../../Componet/BatchComponet/BatchComponet'
 
 function Batch() {
   return (
     <>
-    <h1>hellow</h1>
+      <div className="container mt-5 mb-5">
+          <div className="inner-container">
+              <BatchComponet />
+              <BatchComponet />
+          </div>
+      </div>
+
     </>
   )
 }

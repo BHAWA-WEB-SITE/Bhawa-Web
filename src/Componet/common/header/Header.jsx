@@ -18,8 +18,8 @@ function Header() {
 
             <li className="nav-item"><Link to='/' className="nav-link text-black">Home</Link></li>
             <li className="nav-item"><Link to='/batch' className="nav-link text-black">Batch</Link></li>
-            <li className="nav-item"><a href="#" className="nav-link text-black">Contact us</a></li>
-            <li className="nav-item"><a href="#" className="nav-link text-black">About us</a></li>
+            <li className="nav-item"><Link to='/contact' className="nav-link text-black">Contact us</Link></li>
+            <li className="nav-item"><Link to='/about' className="nav-link text-black">About us</Link></li>
 
           </ul>
         </header>
