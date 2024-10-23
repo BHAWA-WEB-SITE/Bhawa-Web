@@ -11,7 +11,7 @@ function Header() {
         <header className="header-links mb-4">
           <Link to='/' className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
             <img src={imghead} alt="..." className='image-logo'/>
-            <span className="fs-2">භාව</span>
+            <span className="bhawa-font">භාව</span>
           </Link>
 
           <ul className="nav nav-pills fs-5">

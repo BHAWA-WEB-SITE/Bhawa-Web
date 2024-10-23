@@ -59,7 +59,9 @@ function About() {
 
       <div className="overoll-thanks-container mb-5">
 
-                
+                <div className="container">
+                  
+                </div>
 
       </div>
     </>

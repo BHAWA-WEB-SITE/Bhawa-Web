@@ -18,3 +18,25 @@ a:hover{
     justify-content: center;
     
 }
+.bhawa-font{
+    font-size: xx-large;
+}
+
+
+
+/* Media Querries */
+
+@media (max-width: 765.98px) {
+    a,li{
+        font-size:small;
+    }
+
+    .bhawa-font{
+        display: none;
+    }
+
+    .image-logo{
+        margin-top:10px;
+        width: 90px;
+    }
+}
